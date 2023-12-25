@@ -1,3 +1,3 @@
-a = 10
-b=2
-print(a+b)
+a = 4
+b=9
+print(a*b)
